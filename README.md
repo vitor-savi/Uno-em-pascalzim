@@ -5,5 +5,7 @@ Faça o download do Pascalzim pelo link: https://pascalzimbr.blogspot.com/p/blog
 
 ATENÇÃO:
 Por questões técnicas, para funcionar é necessário gerar o executável (Menu Compilar/Gerar Executável) e iniciar o programa fora do editor do Pascalzim.
+
 A pasta "Dados" precisa estar na mesma pasta do executável.
+
 A pasta "Dados" contém principalmente as imagens ASCII utilizadas no jogo e que foram elaboradas no editor PaintZim.
